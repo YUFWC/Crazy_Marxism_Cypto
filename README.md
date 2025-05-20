@@ -74,5 +74,5 @@ GUI：
         "enable_short": "是否开空单,默认true"
 
     }
-}
+
 
