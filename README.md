@@ -1,5 +1,6 @@
 加密货币交易系统-Crazy_Marxism_Cypto
-    
+
+Crazy_Marxism_Cypto.exe : https://www.123865.com/s/DtpeVv-pJSad   https://www.123684.com/s/DtpeVv-pJSad
 
 配置文件(config.json)
 
