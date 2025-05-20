@@ -39,7 +39,8 @@ GUI：
     
 
 配置文件(config.json)
-{
+
+    {
     "api_key": "", 
     "secret_key": "",
     "password": "",
@@ -74,3 +75,4 @@ GUI：
 
     }
 }
+
